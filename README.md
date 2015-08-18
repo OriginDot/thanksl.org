@@ -2,8 +2,8 @@
 
 ```
 Don't worry about license.
-Use as you like.
-If you want? say thanks.
+Feel Free to Use.
+Donate? Just write "Thank you" here. http://thanksl.org/_ProjectPage 
 ```
 
 ##웹 솔루션
